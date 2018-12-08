@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9da5d5</color>
+    <color name="colorPrimaryDark">#45c3f4</color>
+    <color name="colorAccent">#8fc5a7</color>
+    <color name="zayif">#3bfa01</color>
+    <color name="ideal">#f6fa01</color>
+    <color name="idealden_fazla">#f9b045</color>
+    <color name="fazla_kilolu">#fa4c01</color>
+    <color name="obez">#fc5558</color>
+    <color name="doktor">#fa0101</color>
+    <color name="buton1">#05fa01</color>
+    <color name="buton2">#fa0101</color>
+
+
+</resources>
